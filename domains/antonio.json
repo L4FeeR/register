@@ -1,11 +1,8 @@
 {
-  "description": "For my personal landing page",
-  "repo": "https://github.com/YantCaccia/yantcaccia.github.io",
   "owner": {
-    "username": "YantCaccia",
-    "email": "yantcaccia@gmail.com"
+    "username": "antonio-ivanovski"
   },
-  "record": {
-    "CNAME": "yantcaccia.github.io"
+  "records": {
+    "CNAME": "antonio-ivanovski.github.io"
   }
 }
